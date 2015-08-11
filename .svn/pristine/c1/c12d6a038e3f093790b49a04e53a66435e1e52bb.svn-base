@@ -1,0 +1,30 @@
+/*
+ * TCSS 342 Winter 2013
+ * Assignment 1
+ */
+
+import org.junit.Before;
+import org.junit.Test;
+
+import static org.junit.Assert.*;
+
+/**
+ * A Generic Simple Array Stack JUnit Test.
+ * 
+ * @author Raymond Luu
+ * @version Winter 2013
+ * 
+ */
+public class JUnitTestGenericSimpleArrayStack
+{
+
+  /**
+   * Test method for Generic Simple Array Stack.
+   */
+  @Test
+  public void test()
+  {
+    fail("Not yet implemented");
+  }
+
+}
